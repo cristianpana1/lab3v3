@@ -1,0 +1,10 @@
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\bin\Debug\Inregistrare.exe.config
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\bin\Debug\Inregistrare.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\bin\Debug\Inregistrare.pdb
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.csproj.AssemblyReference.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.Form1.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.Properties.Resources.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.csproj.GenerateResource.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.csproj.CoreCompileInputs.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\Inregistrare\Inregistrare\obj\Debug\Inregistrare.pdb

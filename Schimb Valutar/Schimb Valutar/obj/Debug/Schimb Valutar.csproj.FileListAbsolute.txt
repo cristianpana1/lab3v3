@@ -1,0 +1,11 @@
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\bin\Debug\Schimb Valutar.exe.config
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\bin\Debug\Schimb Valutar.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\bin\Debug\Schimb Valutar.pdb
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb Valutar.csproj.AssemblyReference.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb_Valutar.Form1.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb_Valutar.Properties.Resources.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb Valutar.csproj.GenerateResource.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb Valutar.csproj.CoreCompileInputs.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb Valutar.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\obj\Debug\Schimb Valutar.pdb
+C:\Users\crist\Programare\VisualStudio\Varianta3\Schimb Valutar\Schimb Valutar\bin\Debug\valuta.in

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Programare\\VisualStudio\\Varianta3\\ex7p60\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5A2430-ABF6-4850-B9C3-AB25BC590632}|ex7p60\\ex7p60.csproj|c:\\users\\crist\\programare\\visualstudio\\varianta3\\ex7p60\\ex7p60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5A2430-ABF6-4850-B9C3-AB25BC590632}|ex7p60\\ex7p60.csproj|solutionrelative:ex7p60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5A2430-ABF6-4850-B9C3-AB25BC590632}|ex7p60\\ex7p60.csproj|c:\\users\\crist\\programare\\visualstudio\\varianta3\\ex7p60\\ex7p60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D5A2430-ABF6-4850-B9C3-AB25BC590632}|ex7p60\\ex7p60.csproj|solutionrelative:ex7p60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 110,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Programare\\VisualStudio\\Varianta3\\ex7p60\\ex7p60\\Form1.cs",
+              "RelativeDocumentMoniker": "ex7p60\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Programare\\VisualStudio\\Varianta3\\ex7p60\\ex7p60\\Form1.cs",
+              "RelativeToolTip": "ex7p60\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:57:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Programare\\VisualStudio\\Varianta3\\ex7p60\\ex7p60\\Form1.cs",
+              "RelativeDocumentMoniker": "ex7p60\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Programare\\VisualStudio\\Varianta3\\ex7p60\\ex7p60\\Form1.cs [Design]",
+              "RelativeToolTip": "ex7p60\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T05:55:51.064Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

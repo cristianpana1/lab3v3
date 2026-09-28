@@ -1,0 +1,10 @@
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\bin\Debug\Test.exe.config
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\bin\Debug\Test.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\bin\Debug\Test.pdb
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\Test\Test\obj\Debug\Test.pdb

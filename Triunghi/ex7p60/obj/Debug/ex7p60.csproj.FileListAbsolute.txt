@@ -1,0 +1,10 @@
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\bin\Debug\ex7p60.exe.config
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\bin\Debug\ex7p60.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\bin\Debug\ex7p60.pdb
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.csproj.AssemblyReference.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.Form1.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.Properties.Resources.resources
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.csproj.GenerateResource.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.csproj.CoreCompileInputs.cache
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.exe
+C:\Users\crist\Programare\VisualStudio\Varianta3\ex7p60\ex7p60\obj\Debug\ex7p60.pdb
